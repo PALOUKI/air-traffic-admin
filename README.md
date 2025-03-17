@@ -14,6 +14,6 @@ I hope your visit will be rewarding and informative. Feel free to explore the co
 
 <summary><h2>📷 Screenshots</h2></summary>
 
-<img src="./public/screenshots/un.png" alt=""> <img src="./public/screenshots/deux.png" alt=""> <img src="./public/screenshots/trois.png" alt=""> <img src="./public/screenshots/quatre.png" alt=""> <img src="./public/screenshots/cinq" alt=""> <img src="./public/img/screenshots/six.png" alt=""> 
+<img src="./public/screenshots/un.png" alt=""> <img src="./public/screenshots/deux.png" alt=""> <img src="./public/screenshots/trois.png" alt=""> <img src="./public/screenshots/quatre.png" alt=""> <img src="./public/screenshots/cinq.png" alt=""> <img src="./public/screenshots/six.png" alt=""> 
 
 <img src="https://komarev.com/ghpvc/?username=PALOUKI" alt="palouki"> 
