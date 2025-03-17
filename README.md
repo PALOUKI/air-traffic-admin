@@ -9,8 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+repo;for+AIR+TRAFFIC+admin)](https://git.io/typing-svg)
 
-**`GARAGEAUTO`** is a garage management plateform build with passion and dedication.
-I hope your visit will be rewarding and informative. Feel free to explore the code and give me feedback.
+
+**`AIR-TRAFFIC`** is an innovative air traffic management platform, crafted with dedication and expertise. We hope you'll find it insightful and inspiring. Feel free to explore the code, contribute, or share your valuable feedback!
 
 <summary><h2>📷 Screenshots</h2></summary>
 
